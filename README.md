@@ -1,2 +1,2 @@
 # Proyecto apuntes-ed
-Descripci?n inicial del proyecto.
+Descripci?n nueva y modificada.
