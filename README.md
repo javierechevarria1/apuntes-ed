@@ -1,2 +1,4 @@
 # Proyecto apuntes-ed
-Descripci?n nueva y modificada.
+
+Segunda línea modificada en la rama main de otra forma
+
