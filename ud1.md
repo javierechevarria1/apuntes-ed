@@ -14,7 +14,7 @@ instrucción.
 
 1.2 Qué ocurre al ejecutar un programa
 
-1\. El usuario lanza el programa (doble clic o un comando).
+1\. El usuario ejecuta el programa haciendo doble clic sobre el archivo o utilizando una instrucción en la consola.
 
 2\. El sistema operativo lee el ejecutable del disco y lo carga en la RAM.
 
