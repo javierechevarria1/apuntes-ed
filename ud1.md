@@ -2,3 +2,6 @@
 
 En esta unidad hemos estudiado los entornos de desarrollo,
 el software y las herramientas de programación.
+
+Desde casa hemos repasado las herramientas de desarrollo.
+
