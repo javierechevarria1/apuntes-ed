@@ -2,3 +2,4 @@
 
 En esta unidad hemos estudiado los entornos de desarrollo,
 el software y las herramientas de programación.
+Desde clase hemos estudiado las fases del desarrollo de software.
